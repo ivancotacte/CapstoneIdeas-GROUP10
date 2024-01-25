@@ -2,7 +2,7 @@
 
 ## Features
 * Smoke Detection
-  *State-of-the-art smoke sensors for early detection of potential fire hazards.
+  * State-of-the-art smoke sensors for early detection of potential fire hazards.
 * Fire Alarm System
   * Robust fire alarm to alert occupants in case of fire.
 * SMS Notification
