@@ -1,7 +1,6 @@
 # *Fire and Smoke Alarm System with SMS Notification Documents
 
-## My List
-
+## Features
 - Item 1
 - Item 2
 - Item 3
