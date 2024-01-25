@@ -1,5 +1,4 @@
 # Fire and Smoke Alarm System with SMS Notification
-
 ## Features:
 * Smoke Detection
   * State-of-the-art smoke sensors for early detection of potential fire hazards.
@@ -9,3 +8,6 @@
   * Instant SMS notifications sent to predefined contacts upon detection of smoke or fire.
 * Real-time Monitoring
   * Continuous monitoring of the environment for immediate response.
+
+# Health Monitoring System
+## Features:
