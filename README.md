@@ -1,4 +1,4 @@
-# *Fire and Smoke Alarm System with SMS Notification
+# Fire and Smoke Alarm System with SMS Notification
 
 ## Features:
 * Smoke Detection
