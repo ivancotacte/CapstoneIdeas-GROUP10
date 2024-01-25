@@ -11,3 +11,9 @@
 
 # Health Monitoring System
 ## Features:
+* Oxygen Saturation Sensor
+  * Hardware for measuring blood oxygen levels.
+* Heart Rate Monitoring
+  * Continuous tracking of heart rate for early detection of abnormalities.
+* Blood Pressure Measurement
+  * Real-time monitoring and recording of blood pressure levels.
