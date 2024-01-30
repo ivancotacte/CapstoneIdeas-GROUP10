@@ -17,3 +17,5 @@
   * Continuous tracking of heart rate for early detection of abnormalities.
 * Blood Pressure Measurement (https://www.instructables.com/Blood-Pressure-Monitor/)
   * Real-time monitoring and recording of blood pressure levels.
+## Components:
+* 
