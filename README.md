@@ -18,4 +18,5 @@
 * Blood Pressure Measurement (https://www.instructables.com/Blood-Pressure-Monitor/)
   * Real-time monitoring and recording of blood pressure levels.
 ## Components:
-* 
+* MAX30102
+* Arduino Uno
