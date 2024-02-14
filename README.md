@@ -27,6 +27,6 @@
 * Active Buzzer
 * LED
 
-| Attempt | #1    | #2    |
+| Components | Links    | Price    |
 | :---:   | :---: | :---: |
 | Seconds | 301   | 283   |
