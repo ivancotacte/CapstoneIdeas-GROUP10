@@ -11,12 +11,12 @@
 
 # Health Monitoring System
 ## Features:
-* Oxygen Saturation Sensor
-  * Hardware for measuring blood oxygen levels.
-* Heart Rate Monitoring
-  * Continuous tracking of heart rate for early detection of abnormalities.
-* Blood Pressure Measurement (https://www.instructables.com/Blood-Pressure-Monitor/)
-  * Real-time monitoring and recording of blood pressure levels.
+* Data Logging:
+  * Store heart rate and oxygen saturation data for later analysis or review.
+* Pulse Oximetry: 
+  * The MAX30102 sensor also provides pulse oximetry, allowing for the measurement of oxygen saturation levels in the blood.
+* Heart Rate Monitoring: 
+  * Utilize the MAX30102 sensor to accurately measure heart rate in real-time.
 ## Components:
 * MAX30102 Heart Rate and Pulse Oximeter Sensor Module (https://www.makerlab-electronics.com/products/max30102-heart-rate-and-pulse-oximeter-sensor-module-black)
 * Arduino Uno R3 Board (https://www.makerlab-electronics.com/products/arduino-uno)
