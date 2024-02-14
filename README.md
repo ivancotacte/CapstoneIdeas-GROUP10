@@ -26,6 +26,7 @@
 * 0.91 inch 128x32 IIC Oled LCD Blue LED Display Modules (https://www.makerlab-electronics.com/products/0-91-inch-128x32-iic-oled-lcd-blue-led-display-modules)
 * Active Buzzer
 * LED
+* ESP-01 ESP8266 WiFi Module
 
 | Components | Links    | Price    |
 | :---:   | :---: | :---: |
