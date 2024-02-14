@@ -31,4 +31,6 @@
 | :---:   | :---: | :---: |
 | MAX30102 | http://surl.li/qmmau (Lazada)   | ₱149 |
 | Arduino Uno R3 Board | http://surl.li/qmmbt (Lazada)   | ₱449.00   |
-| OLED LCD 0.91″ inch l 1.3″ inch I2C LED Display Modules | [http://surl.li/qmmbt](http://surl.li/qmmcz) (Lazada)   | ₱149 |
+| OLED LCD 0.91″ inch l 1.3″ inch I2C LED Display Modules | [http://surl.li/qmmbt](http://surl.li/qmmcz) (Lazada) | ₱149 |
+| Active Buzzer |  | ₱0 |
+| LED |  | ₱0 |
