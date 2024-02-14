@@ -29,4 +29,4 @@
 
 | Components | Links    | Price    |
 | :---:   | :---: | :---: |
-| MAX30102 | http://surl.li/qmmau(Lazada)   | ₱149   |
+| MAX30102 | http://surl.li/qmmau (Lazada)   | ₱149   |
