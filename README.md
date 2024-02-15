@@ -37,7 +37,7 @@
 | LED |  | ₱0 |
 | ESP-01 ESP8266 WiFi Module | ESP-01 ESP8266 WiFi Module (Lazada, MarketLab) | ₱89 |
 
-## Components:
+## Components For Smart Watch:
 * MAX30102 Heart Rate and Pulse Oximeter Sensor Module (https://www.makerlab-electronics.com/products/max30102-heart-rate-and-pulse-oximeter-sensor-module-black)
 * 0.91 inch 128x32 IIC Oled LCD Blue LED Display Modules (https://www.makerlab-electronics.com/products/0-91-inch-128x32-iic-oled-lcd-blue-led-display-modules)
 * NodeMCU V3 ESP8266 ESP-12E (https://www.makerlab-electronics.com/products/nodemcu-v3-esp8266-esp-12e)
