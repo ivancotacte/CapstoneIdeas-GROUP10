@@ -33,7 +33,7 @@
 | MAX30102 | http://surl.li/qmmau (Lazada)   | ₱149 |
 | Arduino Uno R3 Board | http://surl.li/qmmbt (Lazada)   | ~~₱449~~ |
 | OLED LCD 0.91″ inch l 1.3″ inch I2C LED Display Modules | [http://surl.li/qmmbt](http://surl.li/qmmcz) (Lazada) | ₱149 |
-| Active Buzzer |  | ₱50 |
+| Active Buzzer | https://www.makerlab-electronics.com/products/active-buzzer-10-pieces | ₱50 |
 | LED |  | ₱50 |
 | ESP-01 ESP8266 WiFi Module | ESP-01 ESP8266 WiFi Module (Lazada, MarketLab) | ₱89 |
 
