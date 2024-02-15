@@ -9,7 +9,7 @@
 * Real-time Monitoring
   * Continuous monitoring of the environment for immediate response.
 
-# Health Monitoring System
+# SMART BIOMETRIC HEART RATE SENSOR SYSTEM WITH ADDITIONAL FEATURE OF SENDING EMAIL ALERTS FOR AUGMENT HEALTH SURVEILLANCE
 ## Features:
 * Data Logging:
   * Store heart rate and oxygen saturation data for later analysis or review.
