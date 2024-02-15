@@ -36,7 +36,7 @@
 | Active Buzzer | https://www.makerlab-electronics.com/products/active-buzzer-10-pieces | ₱50 |
 | LED | https://www.makerlab-electronics.com/products/5mm-led-assorted-colors-50-pieces | ₱50 |
 | ESP-01 ESP8266 WiFi Module | ESP-01 ESP8266 WiFi Module (Lazada, MarketLab) | ₱89 |
-| Total | ₱936 |
+| Total | | ₱936 |
 
 ## Components For Smart Watch:
 * MAX30102 Heart Rate and Pulse Oximeter Sensor Module (https://www.makerlab-electronics.com/products/max30102-heart-rate-and-pulse-oximeter-sensor-module-black)
