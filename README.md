@@ -40,3 +40,4 @@
 * MAX30102 Heart Rate and Pulse Oximeter Sensor Module (https://www.makerlab-electronics.com/products/max30102-heart-rate-and-pulse-oximeter-sensor-module-black)
 * 0.91 inch 128x32 IIC Oled LCD Blue LED Display Modules (https://www.makerlab-electronics.com/products/0-91-inch-128x32-iic-oled-lcd-blue-led-display-modules)
 * NodeMCU V3 ESP8266 ESP-12E (https://www.makerlab-electronics.com/products/nodemcu-v3-esp8266-esp-12e)
+* Lithium Ion Polymer Battery - 3.7v 500mAh (https://www.makerlab-electronics.com/products/lithium-ion-polymer-battery-3-7v-500mah)
