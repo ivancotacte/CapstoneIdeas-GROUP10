@@ -24,8 +24,8 @@
 * MAX30102 Heart Rate and Pulse Oximeter Sensor Module (https://www.makerlab-electronics.com/products/max30102-heart-rate-and-pulse-oximeter-sensor-module-black)
 * Arduino Uno R3 Board (https://www.makerlab-electronics.com/products/arduino-uno)
 * 0.91 inch 128x32 IIC Oled LCD Blue LED Display Modules (https://www.makerlab-electronics.com/products/0-91-inch-128x32-iic-oled-lcd-blue-led-display-modules)
-* Active Buzzer
-* LED
+* Buzzer (For Auditory alerting)
+* LED (For Visual alerting)
 * ESP-01 ESP8266 WiFi Module
 
 | Components | Links    | Price    |
